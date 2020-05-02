@@ -1,0 +1,18 @@
+ID : RISE 2020.10.4.2
+
+My docker project is on Ghost.
+
+Ghost is a free and open source blogging platform written in JavaScript and distributed under the MIT License, 
+designed to simplify the process of online publishing for individual bloggers as well as online publications.
+I have used docker ghost img version 3.14.0 and mysql version 5.7, 
+It has a multi-tier architecture and requires infrasturucture.
+
+default admin login for Ghost is :
+-------------------------------------------------------------------------------------------------
+id:- admin
+Password:- admin
+-------------------------------------------------------------------------------------------------
+port: 8080
+
+THANK YOU FOR Reading..
+
